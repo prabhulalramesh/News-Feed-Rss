@@ -1,0 +1,27 @@
+.hoverColor{
+    background-color: blue;
+    opacity: 0.5;
+}
+
+.normalColor{
+    background-color: red;
+}
+
+.list-item{
+    border-radius: 50%;
+    width: 105px;
+    height: 105px;
+    display: inline-block;
+    border: black 5px thick;
+    margin: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.title{
+    text-align: center;
+    position: relative;
+    left:10px;
+    top: 40px;
+    ;
+}
